@@ -1,0 +1,12 @@
+{
+    "name": "gabri/mini-framework",
+    "description": "Mini framework PHP para fins de estudo",
+    "authors": [
+        {
+            "name": "Gabriel Moretto"
+        }
+    ],
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "*"
+    }
+}
